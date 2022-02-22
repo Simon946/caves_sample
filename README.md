@@ -10,6 +10,6 @@ https://github.com/HakkaTjakka/CAVES
 
 
 
-[![Demo CountPages alpha](https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-Google-Earth-3D/blob/main/MAP/tiles.jpg)](https://www.youtube.com/watch?v=5SJG3ie4RF8)
+[![Demo CountPages alpha](https://github.com/HakkaTjakka/CAVES/blob/main/Minecraft/screenshots/2022-02-21_06.25.01.jpg)](https://www.youtube.com/watch?v=5SJG3ie4RF8)
 (Click to play vid)
 
