@@ -13,3 +13,4 @@ https://github.com/HakkaTjakka/CAVES
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/CAVES/blob/main/Minecraft/screenshots/2022-02-21_06.25.01.jpg)](https://www.youtube.com/watch?v=5SJG3ie4RF8)
 (Click to play vid)
 
+I don't understand why when I try to download this repo, the download includes all the files in the original repo as well, even though I removed them in the forked repo.
