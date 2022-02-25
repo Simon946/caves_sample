@@ -8,9 +8,8 @@ Sample of (13 x 13) region files created with c/c++ tnt cave generator:
 
 https://github.com/HakkaTjakka/CAVES
 
+All credit goes to https://github.com/HakkaTjakka/CAVES. This repo only has (part of) the minecraft world but without all the unneccesary files found in the original repository.
 
 
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/CAVES/blob/main/Minecraft/screenshots/2022-02-21_06.25.01.jpg)](https://www.youtube.com/watch?v=5SJG3ie4RF8)
 (Click to play vid)
-
-I don't understand why when I try to download this repo, the download includes all the files in the original repo as well, even though I removed them in the forked repo.
